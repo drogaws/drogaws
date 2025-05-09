@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, C++, Assembly (MASM), Dart (learning), C# (learning)  
+- **Languages**: Java, C++, Assembly (MASM), Dart (learning)
 - **Tools**: VS Code, NetBeans, Visual Studio 2022  
 - **Tech**: Git/GitHub, Firebase, Flutter  
 
