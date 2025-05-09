@@ -38,10 +38,7 @@ A Flutter app to track workouts, sets, reps, and progress with cloud sync using 
 
 ## 📊 GitHub Contribution Graph
 
-![Jadon's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=drogaws&bg_color=0d1117&color=1cadfb&line=1cadfb&point=ffffff&area=true&hide_border=true)
-
-
-
+![Jadon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=drogaws&theme=github-compact)
 
 
 
