@@ -36,13 +36,6 @@ A Flutter app to track workouts, sets, reps, and progress with cloud sync using 
 
 ---
 
-## 📊 GitHub Contributions
-
-![GitHub Contribution Grid](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drogaws&theme=github_dark)
-
-
----
-
 ## 📬 Let's Connect
 
 - 📧 Email: bjadon05@gmail.com  
@@ -50,5 +43,3 @@ A Flutter app to track workouts, sets, reps, and progress with cloud sync using 
 - 🧠 Fun Fact: I love space and science—hoping to break into the quantum realm one day.
 
 ---
-
-> 🚀 "Learning to code is like learning a new way to think. I'm here to master both."
