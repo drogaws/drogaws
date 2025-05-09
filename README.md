@@ -40,7 +40,8 @@ A Flutter app to track workouts, sets, reps, and progress with cloud sync using 
 
 ## 📊 Real Contribution Heatmap (Auto-updated)
 
-![Contribution Grid](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drogaws&theme=github_dark)
+![GitHub Contribution Grid](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drogaws&theme=github_dark)
+
 
 
 
